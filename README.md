@@ -1,3 +1,2 @@
 # matlab_plots
-
-how to make plots/ subplots
+visualize data with plots in MatLab
