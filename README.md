@@ -1,5 +1,4 @@
 # matlab_plots
-* visualize data with plots in MatLab
+visualize data with plots in MatLab using:
 * Polar Plots
-* Pie Chart
 * 3D Plots
